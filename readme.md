@@ -9,3 +9,7 @@
 5、The data set is a real and effective data set, please respect the labor results, if you want to use, try to quote us.
 
 6、The publicly tested data set has been desensitized within my capabilities, but I also know that there may be information cracking from the perspective of information security. If personal privacy is involved, please let us know.
+
+7、The system demo can be played by clicking on this image, or the video link is: https://youtu.be/7YA-7aAAd8s
+
+[![Watch the video](https://github.com/gsz12/ICC_test/blob/master/6.png)](https://youtu.be/7YA-7aAAd8s)
